@@ -1,5 +1,6 @@
 # Chicago Crime Analysis
 Team Project towards Python for Data Science coursework
+
 Team: Kwangwei Huang, Yue Hu, Angshuman Paul, Anu Sankar
 
 ### Goal 
