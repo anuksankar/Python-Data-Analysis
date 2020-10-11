@@ -10,4 +10,6 @@ Team Project towards Python for Data Science coursework
 
 ### Year-over-Year Seasonal Variation of Crime 
 
- ![Alt text](crime_seasonal_variation.PNG) 
+ ![Alt text](crime_seasonal_variation.png) 
+ <br> </br>
+ ![Alt text](observation.png) 
