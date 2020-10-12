@@ -20,5 +20,5 @@ We had a hypothesis that crimes and especially theft would increase during the h
  <br> </br>
 #### *Conclusion*
 
-We found that various crimes peak during different months.  There is a strong correlation between the seasons (temperatures) and when the crimes peak. Contrary to our hypothesis,  we saw an overall declined during the winter months.  So we concluded that theft does not increase substantially during the holidays.
+We found that various crimes peak during different months.  There is a strong correlation between the seasons (temperatures) and when the crimes peak. Contrary to our hypothesis,  we saw an overall decline in crime during the winter months.  So we concluded that theft does not increase substantially during the holidays.
  
