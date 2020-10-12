@@ -12,13 +12,13 @@ Team Project towards Python for Data Science coursework
 
 ### Sample Analysis : 
 
-*Year-over-Year Seasonal Variation of Crime* 
+#### *Year-over-Year Seasonal Variation of Crime*
 
 We had a hypothesis that crimes and especially theft would increase during the holiday season (Novemeber, December) when families travel.
 
  ![Alt text](crime_seasonal_variation.PNG) 
  <br> </br>
-*Conclusion*
+#### *Conclusion*
 
 We found that various crimes peak during different months.  There is a strong correlation between the seasons (temperatures) and when the crimes peak. Although, crimes increased from November to December, we saw an overall declined during the winter months.  So we concluded that theft does not increase substantially during the holidays.
  
