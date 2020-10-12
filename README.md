@@ -10,9 +10,15 @@ Team Project towards Python for Data Science coursework
 - Do not used statistical inference or other advance techniques.
 - Final submission: Jupyter notebook with all the code and a report in pdf format ( max 8 pages long)
 
-### Excerpt : Year-over-Year Seasonal Variation of Crime 
+### Sample Analysis : 
+
+*Year-over-Year Seasonal Variation of Crime* 
+
+We had a hypothesis that crimes and especially theft would increase during the holiday season (Novemeber, December) when families travel.
 
  ![Alt text](crime_seasonal_variation.PNG) 
  <br> </br>
- Various crimes peak during different months.  The correlation between the seasons (temperatures) and when the crimes peak seem to be strong.  We had a hypothesis that crimes and especially theft could increase during the holiday season (Novemeber, December) when families travel, but the data doesn't bear that relationship.   So it can be concluded that theft does not increase substantially during the holidays.
+*Conclusion*
+
+We found that various crimes peak during different months.  There is a strong correlation between the seasons (temperatures) and when the crimes peak. Although, crimes increased from November to December, we saw an overall declined during the winter months.  So we concluded that theft does not increase substantially during the holidays.
  
